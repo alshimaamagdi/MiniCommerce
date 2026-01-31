@@ -1,0 +1,26 @@
+# Node modules
+Front-End/MiniCommerce-FrontEnd-Luftborn/node_modules
+
+
+# Angular build
+Front-End/MiniCommerce-FrontEnd-Luftborn/dist/
+Front-End/MiniCommerce-FrontEnd-Luftborn/out-tsc/
+
+# .NET build
+Back-End/MiniCommerce-BackEnd-Luftborn/bin/
+Back-End/MiniCommerce-BackEnd-Luftborn/obj/
+Back-End/MiniCommerce-BackEnd-Luftborn/*.user
+Back-End/MiniCommerce-BackEnd-Luftborn/*.suo
+
+# IDE / editor
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

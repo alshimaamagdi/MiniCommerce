@@ -1,0 +1,39 @@
+<div class="container">
+  <h1>Categories</h1>
+  <p>
+    <a routerLink="/categories/new" class="btn btn-primary">New Category</a>
+  </p>
+
+  <p *ngIf="error" class="text-danger">{{ error }}</p>
+  <p *ngIf="loading">Loading...</p>
+
+  <table *ngIf="!loading && categories.length > 0" class="table table-bordered">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let c of categories; trackBy: trackById">
+        <td>{{ c.name }}</td>
+        <td>{{ c.description ?? '-' }}</td>
+        <td>
+          <a [routerLink]="['/categories', c.id, 'edit']" class="btn btn-secondary">Edit</a>
+          <button class="btn btn-danger" (click)="openDeleteModal(c)">Delete</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p *ngIf="!loading && categories.length === 0 && !error">
+    No categories yet. Create one above.
+  </p>
+</div>
+
+<app-confirm-modal
+  #confirmModal
+  [title]="'Confirm Delete'"
+  [message]="'Are you sure you want to delete this category?'"
+></app-confirm-modal>

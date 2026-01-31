@@ -1,0 +1,601 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4825289-8B06-4776-8B23-2CBF50E2BCE4}|MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn.csproj|d:\\luftborn\\back-end\\minicommerce-backend-luftborn\\minicommerce-backend-luftborn\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4825289-8B06-4776-8B23-2CBF50E2BCE4}|MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn.csproj|solutionrelative:minicommerce-backend-luftborn\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4825289-8B06-4776-8B23-2CBF50E2BCE4}|MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn.csproj|d:\\luftborn\\back-end\\minicommerce-backend-luftborn\\minicommerce-backend-luftborn\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4825289-8B06-4776-8B23-2CBF50E2BCE4}|MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn.csproj|solutionrelative:minicommerce-backend-luftborn\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4825289-8B06-4776-8B23-2CBF50E2BCE4}|MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn.csproj|d:\\luftborn\\back-end\\minicommerce-backend-luftborn\\minicommerce-backend-luftborn\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4825289-8B06-4776-8B23-2CBF50E2BCE4}|MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn.csproj|solutionrelative:minicommerce-backend-luftborn\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5835291-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Application\\MiniCommerce.Application.csproj|d:\\luftborn\\back-end\\minicommerce-backend-luftborn\\minicommerce.application\\common\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5835291-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Application\\MiniCommerce.Application.csproj|solutionrelative:minicommerce.application\\common\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5835291-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Application\\MiniCommerce.Application.csproj|d:\\luftborn\\back-end\\minicommerce-backend-luftborn\\minicommerce.application\\categories\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5835291-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Application\\MiniCommerce.Application.csproj|solutionrelative:minicommerce.application\\categories\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5835291-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Application\\MiniCommerce.Application.csproj|d:\\luftborn\\back-end\\minicommerce-backend-luftborn\\minicommerce.application\\common\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5835291-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Application\\MiniCommerce.Application.csproj|solutionrelative:minicommerce.application\\common\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5835291-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Application\\MiniCommerce.Application.csproj|d:\\luftborn\\back-end\\minicommerce-backend-luftborn\\minicommerce.application\\categories\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5835291-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Application\\MiniCommerce.Application.csproj|solutionrelative:minicommerce.application\\categories\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5835292-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Infrastructure\\MiniCommerce.Infrastructure.csproj|d:\\luftborn\\back-end\\minicommerce-backend-luftborn\\minicommerce.infrastructure\\persistence\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5835292-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Infrastructure\\MiniCommerce.Infrastructure.csproj|solutionrelative:minicommerce.infrastructure\\persistence\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5835292-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Infrastructure\\MiniCommerce.Infrastructure.csproj|d:\\luftborn\\back-end\\minicommerce-backend-luftborn\\minicommerce.infrastructure\\persistence\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5835292-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Infrastructure\\MiniCommerce.Infrastructure.csproj|solutionrelative:minicommerce.infrastructure\\persistence\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5835291-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Application\\MiniCommerce.Application.csproj|d:\\luftborn\\back-end\\minicommerce-backend-luftborn\\minicommerce.application\\products\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5835291-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Application\\MiniCommerce.Application.csproj|solutionrelative:minicommerce.application\\products\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5835291-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Application\\MiniCommerce.Application.csproj|d:\\luftborn\\back-end\\minicommerce-backend-luftborn\\minicommerce.application\\common\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5835291-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Application\\MiniCommerce.Application.csproj|solutionrelative:minicommerce.application\\common\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5835292-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Infrastructure\\MiniCommerce.Infrastructure.csproj|d:\\luftborn\\back-end\\minicommerce-backend-luftborn\\minicommerce.infrastructure\\persistence\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5835292-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Infrastructure\\MiniCommerce.Infrastructure.csproj|solutionrelative:minicommerce.infrastructure\\persistence\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5835292-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Infrastructure\\MiniCommerce.Infrastructure.csproj|d:\\luftborn\\back-end\\minicommerce-backend-luftborn\\minicommerce.infrastructure\\persistence\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5835292-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Infrastructure\\MiniCommerce.Infrastructure.csproj|solutionrelative:minicommerce.infrastructure\\persistence\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5835292-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Infrastructure\\MiniCommerce.Infrastructure.csproj|d:\\luftborn\\back-end\\minicommerce-backend-luftborn\\minicommerce.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5835292-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Infrastructure\\MiniCommerce.Infrastructure.csproj|solutionrelative:minicommerce.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4825289-8B06-4776-8B23-2CBF50E2BCE4}|MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn.csproj|d:\\luftborn\\back-end\\minicommerce-backend-luftborn\\minicommerce-backend-luftborn\\appsettings.sso.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4825289-8B06-4776-8B23-2CBF50E2BCE4}|MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn.csproj|solutionrelative:minicommerce-backend-luftborn\\appsettings.sso.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4825289-8B06-4776-8B23-2CBF50E2BCE4}|MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn.csproj|d:\\luftborn\\back-end\\minicommerce-backend-luftborn\\minicommerce-backend-luftborn\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4825289-8B06-4776-8B23-2CBF50E2BCE4}|MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn.csproj|solutionrelative:minicommerce-backend-luftborn\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6835296-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce-BackEnd-Luftborn.Tests\\MiniCommerce-BackEnd-Luftborn.Tests.csproj|d:\\luftborn\\back-end\\minicommerce-backend-luftborn\\minicommerce-backend-luftborn.tests\\controllers\\categoriescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6835296-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce-BackEnd-Luftborn.Tests\\MiniCommerce-BackEnd-Luftborn.Tests.csproj|solutionrelative:minicommerce-backend-luftborn.tests\\controllers\\categoriescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4825289-8B06-4776-8B23-2CBF50E2BCE4}|MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn.csproj|d:\\luftborn\\back-end\\minicommerce-backend-luftborn\\minicommerce-backend-luftborn\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4825289-8B06-4776-8B23-2CBF50E2BCE4}|MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn.csproj|solutionrelative:minicommerce-backend-luftborn\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4825289-8B06-4776-8B23-2CBF50E2BCE4}|MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn.csproj|d:\\luftborn\\back-end\\minicommerce-backend-luftborn\\minicommerce-backend-luftborn\\authentication\\ssoservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4825289-8B06-4776-8B23-2CBF50E2BCE4}|MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn.csproj|solutionrelative:minicommerce-backend-luftborn\\authentication\\ssoservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4825289-8B06-4776-8B23-2CBF50E2BCE4}|MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn.csproj|d:\\luftborn\\back-end\\minicommerce-backend-luftborn\\minicommerce-backend-luftborn\\authentication\\ssoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4825289-8B06-4776-8B23-2CBF50E2BCE4}|MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn.csproj|solutionrelative:minicommerce-backend-luftborn\\authentication\\ssoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5835291-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Application\\MiniCommerce.Application.csproj|d:\\luftborn\\back-end\\minicommerce-backend-luftborn\\minicommerce.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5835291-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Application\\MiniCommerce.Application.csproj|solutionrelative:minicommerce.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6835294-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Application.Tests\\MiniCommerce.Application.Tests.csproj|d:\\luftborn\\back-end\\minicommerce-backend-luftborn\\minicommerce.application.tests\\categories\\categoryservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6835294-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Application.Tests\\MiniCommerce.Application.Tests.csproj|solutionrelative:minicommerce.application.tests\\categories\\categoryservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6835295-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Infrastructure.Tests\\MiniCommerce.Infrastructure.Tests.csproj|d:\\luftborn\\back-end\\minicommerce-backend-luftborn\\minicommerce.infrastructure.tests\\persistence\\categoryrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6835295-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Infrastructure.Tests\\MiniCommerce.Infrastructure.Tests.csproj|solutionrelative:minicommerce.infrastructure.tests\\persistence\\categoryrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4825289-8B06-4776-8B23-2CBF50E2BCE4}|MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn.csproj|d:\\luftborn\\back-end\\minicommerce-backend-luftborn\\minicommerce-backend-luftborn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4825289-8B06-4776-8B23-2CBF50E2BCE4}|MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn.csproj|solutionrelative:minicommerce-backend-luftborn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4825289-8B06-4776-8B23-2CBF50E2BCE4}|MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn.csproj|d:\\luftborn\\back-end\\minicommerce-backend-luftborn\\minicommerce-backend-luftborn\\minicommerce-backend-luftborn.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A4825289-8B06-4776-8B23-2CBF50E2BCE4}|MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn.csproj|solutionrelative:minicommerce-backend-luftborn\\minicommerce-backend-luftborn.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5835292-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Infrastructure\\MiniCommerce.Infrastructure.csproj|d:\\luftborn\\back-end\\minicommerce-backend-luftborn\\minicommerce.infrastructure\\minicommerce.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B5835292-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Infrastructure\\MiniCommerce.Infrastructure.csproj|solutionrelative:minicommerce.infrastructure\\minicommerce.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5835292-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Infrastructure\\MiniCommerce.Infrastructure.csproj|d:\\luftborn\\back-end\\minicommerce-backend-luftborn\\minicommerce.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5835292-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Infrastructure\\MiniCommerce.Infrastructure.csproj|solutionrelative:minicommerce.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4825289-8B06-4776-8B23-2CBF50E2BCE4}|MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn.csproj|d:\\luftborn\\back-end\\minicommerce-backend-luftborn\\minicommerce-backend-luftborn\\minicommerce-backend-luftborn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A4825289-8B06-4776-8B23-2CBF50E2BCE4}|MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn.csproj|solutionrelative:minicommerce-backend-luftborn\\minicommerce-backend-luftborn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6835294-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Application.Tests\\MiniCommerce.Application.Tests.csproj|d:\\luftborn\\back-end\\minicommerce-backend-luftborn\\minicommerce.application.tests\\minicommerce.application.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6835294-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Application.Tests\\MiniCommerce.Application.Tests.csproj|solutionrelative:minicommerce.application.tests\\minicommerce.application.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6835293-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Domain.Tests\\MiniCommerce.Domain.Tests.csproj|d:\\luftborn\\back-end\\minicommerce-backend-luftborn\\minicommerce.domain.tests\\minicommerce.domain.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6835293-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Domain.Tests\\MiniCommerce.Domain.Tests.csproj|solutionrelative:minicommerce.domain.tests\\minicommerce.domain.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6835293-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Domain.Tests\\MiniCommerce.Domain.Tests.csproj|d:\\luftborn\\back-end\\minicommerce-backend-luftborn\\minicommerce.domain.tests\\entities\\categorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6835293-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Domain.Tests\\MiniCommerce.Domain.Tests.csproj|solutionrelative:minicommerce.domain.tests\\entities\\categorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6835293-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Domain.Tests\\MiniCommerce.Domain.Tests.csproj|d:\\luftborn\\back-end\\minicommerce-backend-luftborn\\minicommerce.domain.tests\\entities\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6835293-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Domain.Tests\\MiniCommerce.Domain.Tests.csproj|solutionrelative:minicommerce.domain.tests\\entities\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6835293-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Domain.Tests\\MiniCommerce.Domain.Tests.csproj|d:\\luftborn\\back-end\\minicommerce-backend-luftborn\\minicommerce.domain.tests\\entities\\baseentitytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6835293-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Domain.Tests\\MiniCommerce.Domain.Tests.csproj|solutionrelative:minicommerce.domain.tests\\entities\\baseentitytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4825289-8B06-4776-8B23-2CBF50E2BCE4}|MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn.csproj|d:\\luftborn\\back-end\\minicommerce-backend-luftborn\\minicommerce-backend-luftborn\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4825289-8B06-4776-8B23-2CBF50E2BCE4}|MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn.csproj|solutionrelative:minicommerce-backend-luftborn\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5835291-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Application\\MiniCommerce.Application.csproj|d:\\luftborn\\back-end\\minicommerce-backend-luftborn\\minicommerce.application\\products\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5835291-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Application\\MiniCommerce.Application.csproj|solutionrelative:minicommerce.application\\products\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5835291-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Application\\MiniCommerce.Application.csproj|d:\\luftborn\\back-end\\minicommerce-backend-luftborn\\minicommerce.application\\categories\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5835291-8B06-4776-8B24-2CBF50E2BCE5}|MiniCommerce.Application\\MiniCommerce.Application.csproj|solutionrelative:minicommerce.application\\categories\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Application\\Common\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "MiniCommerce.Application\\Common\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Application\\Common\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "MiniCommerce.Application\\Common\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T09:16:13.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Application\\Common\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "MiniCommerce.Application\\Common\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Application\\Common\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "MiniCommerce.Application\\Common\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T09:16:07.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Application\\Categories\\CategoryService.cs",
+              "RelativeDocumentMoniker": "MiniCommerce.Application\\Categories\\CategoryService.cs",
+              "ToolTip": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Application\\Categories\\CategoryService.cs",
+              "RelativeToolTip": "MiniCommerce.Application\\Categories\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T09:15:52.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "MiniCommerce-BackEnd-Luftborn\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "MiniCommerce-BackEnd-Luftborn\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAEAAADgZWZmZiYgwAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T09:15:32.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "MiniCommerce-BackEnd-Luftborn\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "MiniCommerce-BackEnd-Luftborn\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T09:15:22.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MiniCommerce-BackEnd-Luftborn\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MiniCommerce-BackEnd-Luftborn\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T09:30:07.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Application\\Categories\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "MiniCommerce.Application\\Categories\\ICategoryService.cs",
+              "ToolTip": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Application\\Categories\\ICategoryService.cs",
+              "RelativeToolTip": "MiniCommerce.Application\\Categories\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T18:02:10.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Infrastructure\\Persistence\\DesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "MiniCommerce.Infrastructure\\Persistence\\DesignTimeDbContextFactory.cs",
+              "ToolTip": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Infrastructure\\Persistence\\DesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "MiniCommerce.Infrastructure\\Persistence\\DesignTimeDbContextFactory.cs",
+              "ViewState": "AgIAAA8AAAAA/P///38YwBYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T12:04:54.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Application\\Products\\IProductService.cs",
+              "RelativeDocumentMoniker": "MiniCommerce.Application\\Products\\IProductService.cs",
+              "ToolTip": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Application\\Products\\IProductService.cs",
+              "RelativeToolTip": "MiniCommerce.Application\\Products\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T09:16:21.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Application\\Common\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "MiniCommerce.Application\\Common\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Application\\Common\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "MiniCommerce.Application\\Common\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T09:16:10.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Infrastructure\\Persistence\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "MiniCommerce.Infrastructure\\Persistence\\ProductRepository.cs",
+              "ToolTip": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Infrastructure\\Persistence\\ProductRepository.cs",
+              "RelativeToolTip": "MiniCommerce.Infrastructure\\Persistence\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T17:54:15.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Infrastructure\\Persistence\\Repository.cs",
+              "RelativeDocumentMoniker": "MiniCommerce.Infrastructure\\Persistence\\Repository.cs",
+              "ToolTip": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Infrastructure\\Persistence\\Repository.cs",
+              "RelativeToolTip": "MiniCommerce.Infrastructure\\Persistence\\Repository.cs",
+              "ViewState": "AgIAAA8AAAA8ZmZmZmYswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T09:16:50.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Infrastructure\\Persistence\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "MiniCommerce.Infrastructure\\Persistence\\CategoryRepository.cs",
+              "ToolTip": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Infrastructure\\Persistence\\CategoryRepository.cs",
+              "RelativeToolTip": "MiniCommerce.Infrastructure\\Persistence\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T17:54:24.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MiniCommerce.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MiniCommerce.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T09:16:40.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.SSO.json",
+              "DocumentMoniker": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn\\appsettings.SSO.json",
+              "RelativeDocumentMoniker": "MiniCommerce-BackEnd-Luftborn\\appsettings.SSO.json",
+              "ToolTip": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn\\appsettings.SSO.json",
+              "RelativeToolTip": "MiniCommerce-BackEnd-Luftborn\\appsettings.SSO.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-31T14:44:19.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn\\appsettings.json",
+              "RelativeDocumentMoniker": "MiniCommerce-BackEnd-Luftborn\\appsettings.json",
+              "ToolTip": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn\\appsettings.json",
+              "RelativeToolTip": "MiniCommerce-BackEnd-Luftborn\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-31T08:55:44.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoriesControllerTests.cs",
+              "DocumentMoniker": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn.Tests\\Controllers\\CategoriesControllerTests.cs",
+              "RelativeDocumentMoniker": "MiniCommerce-BackEnd-Luftborn.Tests\\Controllers\\CategoriesControllerTests.cs",
+              "ToolTip": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn.Tests\\Controllers\\CategoriesControllerTests.cs",
+              "RelativeToolTip": "MiniCommerce-BackEnd-Luftborn.Tests\\Controllers\\CategoriesControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T17:52:22.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MiniCommerce-BackEnd-Luftborn\\appsettings.Development.json",
+              "ToolTip": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn\\appsettings.Development.json",
+              "RelativeToolTip": "MiniCommerce-BackEnd-Luftborn\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-31T14:44:22.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SsoServiceCollectionExtensions.cs",
+              "DocumentMoniker": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn\\Authentication\\SsoServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "MiniCommerce-BackEnd-Luftborn\\Authentication\\SsoServiceCollectionExtensions.cs",
+              "ToolTip": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn\\Authentication\\SsoServiceCollectionExtensions.cs",
+              "RelativeToolTip": "MiniCommerce-BackEnd-Luftborn\\Authentication\\SsoServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T09:28:29.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SsoConfiguration.cs",
+              "DocumentMoniker": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn\\Authentication\\SsoConfiguration.cs",
+              "RelativeDocumentMoniker": "MiniCommerce-BackEnd-Luftborn\\Authentication\\SsoConfiguration.cs",
+              "ToolTip": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn\\Authentication\\SsoConfiguration.cs",
+              "RelativeToolTip": "MiniCommerce-BackEnd-Luftborn\\Authentication\\SsoConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T09:28:24.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "MiniCommerce.Application\\DependencyInjection.cs",
+              "ToolTip": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "MiniCommerce.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T09:29:19.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryServiceTests.cs",
+              "DocumentMoniker": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Application.Tests\\Categories\\CategoryServiceTests.cs",
+              "RelativeDocumentMoniker": "MiniCommerce.Application.Tests\\Categories\\CategoryServiceTests.cs",
+              "ToolTip": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Application.Tests\\Categories\\CategoryServiceTests.cs",
+              "RelativeToolTip": "MiniCommerce.Application.Tests\\Categories\\CategoryServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T14:18:56.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoryRepositoryTests.cs",
+              "DocumentMoniker": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Infrastructure.Tests\\Persistence\\CategoryRepositoryTests.cs",
+              "RelativeDocumentMoniker": "MiniCommerce.Infrastructure.Tests\\Persistence\\CategoryRepositoryTests.cs",
+              "ToolTip": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Infrastructure.Tests\\Persistence\\CategoryRepositoryTests.cs",
+              "RelativeToolTip": "MiniCommerce.Infrastructure.Tests\\Persistence\\CategoryRepositoryTests.cs",
+              "ViewState": "AgIAABMAAADgmZmZmVkhwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T14:51:40.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MiniCommerce-BackEnd-Luftborn.http",
+              "DocumentMoniker": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn.http",
+              "RelativeDocumentMoniker": "MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn.http",
+              "ToolTip": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn.http",
+              "RelativeToolTip": "MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-01-31T08:55:20.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn\\Program.cs",
+              "RelativeDocumentMoniker": "MiniCommerce-BackEnd-Luftborn\\Program.cs",
+              "ToolTip": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn\\Program.cs",
+              "RelativeToolTip": "MiniCommerce-BackEnd-Luftborn\\Program.cs",
+              "ViewState": "AgIAAAMAAAAALDMzMzMLwCkAAACkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T08:56:02.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MiniCommerce.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Infrastructure\\MiniCommerce.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "MiniCommerce.Infrastructure\\MiniCommerce.Infrastructure.csproj",
+              "ToolTip": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Infrastructure\\MiniCommerce.Infrastructure.csproj",
+              "RelativeToolTip": "MiniCommerce.Infrastructure\\MiniCommerce.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-31T12:01:32.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "MiniCommerce.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "MiniCommerce.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T12:04:57.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MiniCommerce-BackEnd-Luftborn.csproj",
+              "DocumentMoniker": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn.csproj",
+              "RelativeDocumentMoniker": "MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn.csproj",
+              "ToolTip": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn.csproj",
+              "RelativeToolTip": "MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-31T08:56:32.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MiniCommerce.Application.Tests.csproj",
+              "DocumentMoniker": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Application.Tests\\MiniCommerce.Application.Tests.csproj",
+              "RelativeDocumentMoniker": "MiniCommerce.Application.Tests\\MiniCommerce.Application.Tests.csproj",
+              "ToolTip": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Application.Tests\\MiniCommerce.Application.Tests.csproj",
+              "RelativeToolTip": "MiniCommerce.Application.Tests\\MiniCommerce.Application.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-31T09:23:34.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MiniCommerce.Domain.Tests.csproj",
+              "DocumentMoniker": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Domain.Tests\\MiniCommerce.Domain.Tests.csproj",
+              "RelativeDocumentMoniker": "MiniCommerce.Domain.Tests\\MiniCommerce.Domain.Tests.csproj",
+              "ToolTip": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Domain.Tests\\MiniCommerce.Domain.Tests.csproj",
+              "RelativeToolTip": "MiniCommerce.Domain.Tests\\MiniCommerce.Domain.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-31T09:23:32.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProductTests.cs",
+              "DocumentMoniker": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Domain.Tests\\Entities\\ProductTests.cs",
+              "RelativeDocumentMoniker": "MiniCommerce.Domain.Tests\\Entities\\ProductTests.cs",
+              "ToolTip": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Domain.Tests\\Entities\\ProductTests.cs",
+              "RelativeToolTip": "MiniCommerce.Domain.Tests\\Entities\\ProductTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T09:23:08.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CategoryTests.cs",
+              "DocumentMoniker": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Domain.Tests\\Entities\\CategoryTests.cs",
+              "RelativeDocumentMoniker": "MiniCommerce.Domain.Tests\\Entities\\CategoryTests.cs",
+              "ToolTip": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Domain.Tests\\Entities\\CategoryTests.cs",
+              "RelativeToolTip": "MiniCommerce.Domain.Tests\\Entities\\CategoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T09:22:59.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BaseEntityTests.cs",
+              "DocumentMoniker": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Domain.Tests\\Entities\\BaseEntityTests.cs",
+              "RelativeDocumentMoniker": "MiniCommerce.Domain.Tests\\Entities\\BaseEntityTests.cs",
+              "ToolTip": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Domain.Tests\\Entities\\BaseEntityTests.cs",
+              "RelativeToolTip": "MiniCommerce.Domain.Tests\\Entities\\BaseEntityTests.cs",
+              "ViewState": "AgIAAAAAAAAbZWZmZqYowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T09:22:52.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MiniCommerce-BackEnd-Luftborn\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce-BackEnd-Luftborn\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MiniCommerce-BackEnd-Luftborn\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-31T09:18:45.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Application\\Products\\ProductDto.cs",
+              "RelativeDocumentMoniker": "MiniCommerce.Application\\Products\\ProductDto.cs",
+              "ToolTip": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Application\\Products\\ProductDto.cs",
+              "RelativeToolTip": "MiniCommerce.Application\\Products\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T09:16:25.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Application\\Categories\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "MiniCommerce.Application\\Categories\\CategoryDto.cs",
+              "ToolTip": "D:\\Luftborn\\Back-End\\MiniCommerce-BackEnd-Luftborn\\MiniCommerce.Application\\Categories\\CategoryDto.cs",
+              "RelativeToolTip": "MiniCommerce.Application\\Categories\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T09:15:50.44Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
